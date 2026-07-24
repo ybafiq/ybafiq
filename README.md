@@ -8,7 +8,7 @@ I'm a Bioinformatics & Biology student at Universiti Kebangsaan Malaysia (UKM) w
 - 📱 **Mobile & Web Development:** Building cross-platform apps using **Flutter & Dart**, backed by **Laravel (PHP)** and **Flask (Python)**.
 - 👁️ **Computer Vision & AI:** Developing object detection, tracking, and inference pipelines using **YOLO (PyTorch)** and **OpenCV** for biological and agricultural research.
 - 📊 **Bioinformatics & Data Analytics:** Processing genomic sequence data, visual statistical models, and biological pipelines using **R / Bioconductor**.
-- 🏢 **Industrial Training & Research:** Interning in Bioinformatics, working on plantation AI tools and automated behavior detection models.
+- 🏢 **Industrial Training & Research:** Interning in Bioinformatics FGV R&D, working on plantation AI tools and automated behavior detection models.
 
 ---
 
