@@ -1,52 +1,43 @@
 # Hi there, I'm Afiq Akmal 👋 
 
-Bioinformatics & Biology student passionate about full-stack mobile/web development, computer vision, and applied AI. I bridge the gap between complex biological data and intuitive user experiences.
+I'm a Bioinformatics & Biology student at Universiti Kebangsaan Malaysia (UKM) who loves the "other" side of tech. Whether it's analyzing genomic sequences or crafting responsive UI/UX for mobile and web, I build software that bridges computational biology and modern engineering.
 
 ---
 
-### 🚀 What I Do
-- 📱 **Mobile Development:** Building cross-platform apps using **Flutter & Dart**.
-- 🌐 **Web Development:** Constructing robust backends and dynamic frontends using **Laravel (PHP)**, **Flask (Python)**, and **JavaScript**.
-- 👁️ **Computer Vision & AI:** Developing object detection and inference pipelines with **YOLO** and **PyTorch**.
-- 🧬 **Bioinformatics:** Genomic sequence analysis and biological data visualization using **R / Bioconductor**.
+### 🧬 About Me & What I Do
+- 📱 **Mobile & Web Development:** Building cross-platform apps using **Flutter & Dart**, backed by **Laravel (PHP)** and **Flask (Python)**.
+- 👁️ **Computer Vision & AI:** Developing object detection, tracking, and inference pipelines using **YOLO (PyTorch)** and **OpenCV** for biological and agricultural research.
+- 📊 **Bioinformatics & Data Analytics:** Processing genomic sequence data, visual statistical models, and biological pipelines using **R / Bioconductor**.
+- 🏢 **Industrial Training & Research:** Interning in Bioinformatics & Genomics IT (FGV R&D), working on plantation AI tools and automated behavior detection models.
 
 ---
 
-### 💻 Tech Stack & Tools
+### 🛠️ Tech Stack & Skills
 
-**Languages:**  
-`Python` `Dart` `PHP` `JavaScript` `R` `HTML/CSS`
-
-**Frameworks & Libraries:**  
-`Flutter` `Laravel` `Flask` `OpenCV` `PyTorch / YOLO`
-
-**Database & Tools:**  
-`MySQL` `Git / GitHub` `Postman` `Canva` `VS Code`
+- **Languages:** `Python` `Dart` `PHP` `JavaScript` `R` `HTML/CSS`
+- **Frameworks & Libraries:** `Flutter` `Laravel` `Flask` `PyTorch / YOLO` `OpenCV`
+- **Tools & Databases:** `Git / GitHub` `MySQL` `Postman` `VS Code` `Canva`
 
 ---
 
-### 📌 Featured Projects
-- 💬 **Aqavox:** A clean, responsive AI studio interface inspired by modern LLM workspaces.
-- 🤖 **Yolo-Prediction-Pipeline:** Automated computer vision inference pipeline utilizing open-source YOLO models.
-- 📱 **Logbook Mobile & Web:** Multi-platform activity tracking system built with Flutter and Laravel for UKM students.
+### 📌 Featured Repositories
+
+| Repository | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **[Aqavox](https://github.com/ybafiq/Aqavox)** | JavaScript | A clean, responsive, single-file AI studio inspired by modern LLM interfaces. |
+| **[Yolo-Prediction-Pipeline](https://github.com/ybafiq/Yolo-Prediction-Pipeline)** | Python | Automated computer vision inference pipeline utilizing open-source YOLO prediction. |
+| **[Logbook-Mobile](https://github.com/ybafiq/Logbook-Mobile)** | Dart / Flutter | Flutter application for managing logbook entries and tracking daily activities for UKM students. |
+| **[Logbook-Web-App](https://github.com/ybafiq/Logbook-Web-App)** | PHP / Blade / Laravel | Comprehensive logbook management backend and web portal with supervisor approval workflows. |
+
+---
+
+### 📈 GitHub Stats & Contribution
+
+![Afiq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ybafiq&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ybafiq&layout=compact&theme=dark)
 
 ---
 
 ### 📫 Connect with Me
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
-- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
-
-<!--
-**ybafiq/ybafiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 **LinkedIn:** [Afiq Akmal](https://linkedin.com/in/) *(Add your link here)*
+- 📧 **Email:** `afiqakmal@example.com` *(Add your preferred contact email)*
