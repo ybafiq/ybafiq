@@ -22,4 +22,3 @@ I'm a Bioinformatics & Biology student at Universiti Kebangsaan Malaysia (UKM) w
 
 ### 📫 Connect with Me
 - 💼 **LinkedIn:** [Afiq Akmal](https://www.linkedin.com/in/afiq-akmal-854aa1333/)
-- 📧 **Email:** `afiqakmal226@gmail.com`
