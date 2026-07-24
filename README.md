@@ -31,13 +31,6 @@ I'm a Bioinformatics & Biology student at Universiti Kebangsaan Malaysia (UKM) w
 
 ---
 
-### 📈 GitHub Stats & Contribution
-
-![Afiq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ybafiq&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ybafiq&layout=compact&theme=dark)
-
----
-
 ### 📫 Connect with Me
-- 💼 **LinkedIn:** [Afiq Akmal](linkedin.com/in/afiq-akmal-854aa1333)
+- 💼 **LinkedIn:** [Afiq Akmal](https://www.linkedin.com/in/afiq-akmal-854aa1333/)
 - 📧 **Email:** `afiqakmal226@gmail.com`
