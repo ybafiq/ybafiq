@@ -39,5 +39,5 @@ I'm a Bioinformatics & Biology student at Universiti Kebangsaan Malaysia (UKM) w
 ---
 
 ### 📫 Connect with Me
-- 💼 **LinkedIn:** [Afiq Akmal](https://linkedin.com/in/) *(Add your link here)*
-- 📧 **Email:** `afiqakmal@example.com` *(Add your preferred contact email)*
+- 💼 **LinkedIn:** [Afiq Akmal](linkedin.com/in/afiq-akmal-854aa1333)
+- 📧 **Email:** `afiqakmal226@gmail.com`
